@@ -13,7 +13,7 @@ spec:
         run: web
     spec:
       containers:
-      - image: gcr.io/google-samples/hello-app:1.0
+      - image: gcr.io/google-samples/hello-app:2.0
         imagePullPolicy: IfNotPresent
         name: web
         ports:
