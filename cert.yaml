@@ -4,4 +4,4 @@ metadata:
   name: iap-demo
 spec:
   domains:
-    - mydomain.com
+    - example.com
